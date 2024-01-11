@@ -9,3 +9,12 @@ from numpy import nn
 # 3. Make the transformer block
 # 4. make the GPT model
 # 5. mak ethe model decoder
+
+
+# Embedding layer 
+
+def EmbeddingLayer(vocab_size, embedding_size):
+    '''
+    This function is used to make the embedding Layer
+    '''
+    pass 
