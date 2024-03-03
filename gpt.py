@@ -11,7 +11,7 @@ from numpy import nn
 # 5. mak ethe model decoder
 
 
-# Embedding layer 
+# Embedding layer and positional encoding
 
 def EmbeddingLayer(vocab_size, embedding_size):
     '''
