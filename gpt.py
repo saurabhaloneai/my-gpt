@@ -9,6 +9,7 @@ from numpy import nn
 # 3. Make the transformer block
 # 4. make the GPT model
 # 5. mak ethe model decoder
+# 6. fnish before march.
 
 
 # Embedding layer and positional encoding
