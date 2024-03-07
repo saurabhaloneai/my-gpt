@@ -1,7 +1,7 @@
 import numpy as np
 import torch
 from numpy import nn
-import whalegrad 
+import whalegrad as nn
 
 
 # TODO :
