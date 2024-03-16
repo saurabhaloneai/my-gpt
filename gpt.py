@@ -11,7 +11,7 @@ import whalegrad as nn
 # 4. make the GPT model
 # 5. mak ethe model decoder
 # 6. fnish before march.
-
+# 7.
 
 # Embedding layer and positional encoding
 
