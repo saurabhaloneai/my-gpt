@@ -13,6 +13,7 @@ import whalegrad as nn
 # 6. fnish before march.
 # 7.
 # 8. 
+# 9. 
 
 # Embedding layer and positional encoding
 
