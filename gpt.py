@@ -12,6 +12,7 @@ import whalegrad as nn
 # 5. mak ethe model decoder
 # 6. fnish before march.
 # 7.
+# 8. 
 
 # Embedding layer and positional encoding
 
