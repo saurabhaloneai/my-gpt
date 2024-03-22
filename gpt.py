@@ -11,7 +11,7 @@ import jax.numpy as jnp
 # 4. make the GPT model
 # 5. mak ethe model decoder
 # 6. fnish before march.
-# 7.
+# 7. maintaining
 # 8. 
 # 9. 
 # 10. 
