@@ -9,13 +9,6 @@ import jax.numpy as jnp
 # 2. Make the positional encodiing
 # 3. Make the transformer block
 # 4. make the GPT model
-# 5. mak ethe model decoder
-# 6. fnish before march.
-# 7. maintaining
-# 8. 
-# 9. 
-# 10. 
-# 11. 
 # Embedding layer and positional encoding
 
 def EmbeddingLayer(vocab_size, embedding_size):
