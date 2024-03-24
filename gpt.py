@@ -4,7 +4,7 @@ from numpy import nn
 import whalegrad as nn
 import jax.numpy as jnp 
 
-# TODO :
+# TODO : hola
 # 1. Make the embedding layer
 # 2. Make the positional encodiing
 # 3. Make the transformer block
