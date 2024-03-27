@@ -3,6 +3,7 @@ import torch
 from numpy import nn
 import whalegrad as nn
 import jax.numpy as jnp 
+# let's implement stable diffusion in jax 
 
 # TODO : hola
 # 1. Make the embedding layer
